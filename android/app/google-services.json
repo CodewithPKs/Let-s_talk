@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918835019322",
+    "project_id": "let-stalk-fbed7",
+    "storage_bucket": "let-stalk-fbed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918835019322:android:19f5b016b0b79a3e9e3f03",
+        "android_client_info": {
+          "package_name": "com.example.lets_talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIom5JwoVrE9iGW9GIGHSOaw5Yorpn1_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
